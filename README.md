@@ -1,4 +1,4 @@
-Phase Vocoder Team Project Winter 2023
+## Phase Vocoder Team Project Winter 2023
 
 This is the main C code for a fully functioning Phase Vocoder on a STMicroelectronics H7 Nucleo board
 
